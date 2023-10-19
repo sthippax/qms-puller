@@ -1,0 +1,12 @@
+﻿
+QMS PROJECT HAVE ONLY ONE SCHEDULAR HAS BEEN CREATED BY USING "BAJPC001" SERVER.
+
+SERVER NAME : BAJPC001
+CREDENTIAL : SYS ACCOUNT(RECOMMENTED)
+SERVER FILE LOCATION : "D:\QMS_Puller\Dev\Master\QMS_Puller.exe" 
+
+InsertOrUpdatePre_Post_SiliconData Method & InsertOrUpdateQLEQuery Method & InsertOrUpdateQMS :
+---------------------------------------------------------------------------------------------
+	-> Above mentioned three method are under one schedular because its takes very less time
+	-> Follow the mentioned method order to run schedular
+			

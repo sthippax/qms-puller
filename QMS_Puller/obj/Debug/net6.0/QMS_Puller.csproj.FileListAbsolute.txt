@@ -1,0 +1,70 @@
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.exe
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\appsettings.json
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.deps.json
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.runtimeconfig.json
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.pdb
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.AssemblyReference.cache
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.AssemblyInfoInputs.cache
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.AssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.CoreCompileInputs.cache
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.CopyComplete
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\refint\QMS_Puller.dll
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.pdb
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.genruntimeconfig.cache
+C:\Users\cthirusx\source\repos\vai\QMS_Puller\QMS_Puller\obj\Debug\net6.0\ref\QMS_Puller.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.exe
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\appsettings.json
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.deps.json
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.runtimeconfig.json
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\QMS_Puller.pdb
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\RestSharp.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\System.Text.Json.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.AssemblyReference.cache
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.AssemblyInfoInputs.cache
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.AssemblyInfo.cs
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.CoreCompileInputs.cache
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.csproj.CopyComplete
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\refint\QMS_Puller.dll
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.pdb
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\QMS_Puller.genruntimeconfig.cache
+C:\My Projects\QMS\Puller\QMS_Puller\02-June-2023\QMS-Puller\QMS_Puller\obj\Debug\net6.0\ref\QMS_Puller.dll
